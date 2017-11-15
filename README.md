@@ -1,5 +1,5 @@
 # EvalInJava
-#### An eval like function written in java
+#### An eval like function written by java
 #### Build pass in env below:
       IntelliJ IDEA 2017.2.5
       Build #IU-172.4343.14, built on September 26, 2017
