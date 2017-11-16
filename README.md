@@ -1,6 +1,6 @@
 # EvalInJava
 #### An eval like function written by java
-#### Build pass in env below:
+#### Passed in env below:
       IntelliJ IDEA 2017.2.5
       Build #IU-172.4343.14, built on September 26, 2017
       Licensed to Administrator
